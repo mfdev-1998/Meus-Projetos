@@ -1,60 +1,42 @@
-# 🧑‍💻 Meus Projetos - Portfólio de Desenvolvimento Web
+# logica-e-javascript-cev
 
-👋 Olá! Este repositório é o meu espaço de aprendizado e vitrine pessoal, onde consolido diversos projetos desenvolvidos com foco em **HTML**, **CSS** e **JavaScript**.
+Bem-vindo ao repositório **logica-e-javascript-cev** — meu espaço de aprendizado e experimentação com lógica de programação e JavaScript.
 
-Eu sou **Moisés Firmino**, Desenvolvedor Júnior focado em transformar ideias em código e em constante evolução. Sinta-se à vontade para explorar os projetos abaixo!
+## 📁 Estrutura do Repositório
 
----
+- **JavaScriptCEV/** — Projetos, exercícios e scripts em JavaScript, focados em lógica, manipulação de arrays, condicionais, loops, funções e DOM.  
+- **Lógica de Programação/** — Material, anotações ou exercícios voltados ao aprendizado da lógica de programação (conceitos, algoritmos, estruturas de controle etc).  
 
-## ✨ Projetos Destaque
+> Se houver outras pastas adicionais no futuro, acrescente abaixo com breve descrição.
 
-Aqui estão alguns dos projetos contidos neste repositório:
+## ✨ Motivo e Objetivo
 
-### ☕ Projeto Cafeteria
-* **Status:** Concluído e em expansão.
-* **Descrição:** Um website completo para uma cafeteria, focado na experiência do usuário e na usabilidade de e-commerce básico.
-* **Funcionalidades:**
-    * **Carrinho de Compras:** Adição, remoção e cálculo total de itens.
-    * **Contador:** Exibição dinâmica da quantidade de itens no carrinho.
-    * **Rolagem Suave (Smooth Scrolling):** Navegação aprimorada entre as seções.
-* **Tecnologias:** HTML5, CSS3 (Flexbox/Grid), JavaScript (Manipulação de DOM).
+Este repositório serve como:
 
-**[LINK AQUI PARA O PROJETO ONLINE (Ex: GitHub Pages)]** *(Não se esqueça de adicionar este link!)*
+- um portfólio pessoal de estudos e experimentos em JavaScript e lógica de programação;  
+- um local para praticar conceitos fundamentais como variáveis, condicionais, loops, arrays, funções e manipulação de DOM;  
+- um registro de evolução — para que eu possa revisitar meus estudos e acompanhar minha própria jornada.  
 
-### 🧠 Lógica de Programação & JavaScript CEV
-* **Descrição:** Uma coleção de desafios, exercícios e pequenos scripts para aprimorar o raciocínio lógico e o domínio da linguagem JavaScript, baseada em cursos e tutoriais.
-* **Foco:** Funções, Arrays, Estruturas de Repetição (`for`, `while`), Condicionais (`if/else`) e Manipulação de Strings.
-* **Tecnologias:** JavaScript puro.
+## 🛠️ Tecnologias e Conceitos Utilizados
 
----
+- JavaScript — código puro (vanilla JS), sem frameworks externos;  
+- Conceitos fundamentais de programação: variáveis, operadores, condicionais (`if/else`), estruturas de repetição (`for`, `while`), arrays, funções, manipulação de DOM;  
+- HTML e CSS (quando aplicável nos projetos que interagem com página/web).  
 
-## 🛠️ Tecnologias Principais
+## 🚀 Como Testar / Executar os Projetos
 
-Este repositório é um reflexo das minhas competências fundamentais em desenvolvimento web:
+Para rodar os projetos localmente, basta:
 
-| Categoria | Tecnologia | Proficiência |
-| :--- | :--- | :--- |
-| **Estrutura** | HTML5 | ⭐️⭐️⭐️⭐️ (Avançado) |
-| **Estilização** | CSS3 | ⭐️⭐️⭐️ (Intermediário/Avançado) |
-| **Interatividade** | JavaScript | ⭐️⭐️⭐️ (Intermediário) |
+```bash
+# 1. Clonar o repositório
+git clone https://github.com/mfdev-1998/logica-e-javascript-cev.git
 
----
+# 2. Entrar na pasta desejada
+cd logica-e-javascript-cev/JavaScriptCEV   # ou outra pasta de seu interesse
 
-## 🚀 Como Visualizar os Projetos
+# 3. Abrir o arquivo HTML (caso exista) no navegador  
+#    — ou rodar os scripts JS diretamente no console do navegador / Node.js, conforme o caso
 
-Para ver o código ou rodar qualquer projeto localmente:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/mfdev-1998/Meus-Projetos.git](https://github.com/mfdev-1998/Meus-Projetos.git)
-    ```
-2.  **Entre no diretório:**
-    ```bash
-    cd Meus-Projetos
-    ```
-3.  Abra o arquivo `index.html` de cada subpasta (ex: `ProjetoCafeteria/index.html`) no seu navegador ou use uma extensão como o *Live Server* do VS Code.
-
----
 
 ## 📞 Contato
 
